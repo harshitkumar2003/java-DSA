@@ -1,5 +1,4 @@
 # java-DSA
-# java-DSA
 📚 Java with DSA This repository contains Java-based solutions and implementations of common Data Structures and Algorithms (DSA). It's designed as a learning resource for students, developers, and interview preparation. Each topic is covered with clean, well-documented code, and categorized for easy navigation.
 
 # 🚀 Topics Covered:
