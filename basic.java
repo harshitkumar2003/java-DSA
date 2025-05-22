@@ -16,6 +16,7 @@
 // 6. JVM is a part of Java Runtime Environment (JRE)
 // 7. JRE is a part of Java Development Kit (JDK)
 // 8. JDK is used to develop Java applications
+
 // ------------------------------------------------------------------------------------------------------
 // JAVA Installation:
 // JDK = "Java Development Kit" collection of tools used for developing and running java programs
@@ -34,12 +35,16 @@
 // 5. End of Main Method Declaration
 // 6. End of Program
 
+
+/**
+public class Basic {
 public class Basic {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
 }
 
+ */
 // ------------------------------------------------------------------------------------------------------
 // Java Naming Conventions:
 // 1. Class names should start with an uppercase letter and use CamelCase.
