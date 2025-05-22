@@ -126,4 +126,13 @@ public class Basic {
 // Reading data from the keyword
 // 1. Scanner class is used to read input from the user.
 // 2. Scanner class is part of the java.util package.
+// 3. To use the Scanner class, we need to import the java.util package.
+// 4. We can create an object of the Scanner class using the new keyword.
+// 5. The Scanner class has several methods to read different types of data.
+// 6. The most commonly used methods are nextInt(), nextDouble(), nextLine(), and next().
+// - nextInt() is used to read an integer value.
+// - nextDouble() is used to read a double value.
+// - nextLine() is used to read a string value.
+// - next() is used to read a single word.
+// -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
