@@ -40,5 +40,13 @@
 // ----------------------------------------------------------------------------------------------
 
 
+// ----------------------------------------------------------------------------------------------
+// How to choose data types for owr Variables
+// Primitive Data Types
+// Inlegral(int) -> byte, short, int, long
+// float (Decimal) -> float, double
+// char -> char
+// Boolean -> true/false
+// In order to choose the data tybe we must need to find the type of data we want want to store. After that we need to analyze the Min 8 Max value we might use.
 
 
