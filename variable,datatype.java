@@ -1,5 +1,6 @@
-// ================================
+// ----------------------------------------------------------------------------------------------
 // Variablee 
+// ----------------------------------------------------------------------------------------------
 // A Variable is a named storage location in memory that can hold a value.This value can be changed during the execution of the program. In Java, variables must be declared with a specific data type, which determines the kind of values they can store. The data type also defines the operations that can be performed on the variable.
 // syntax:
 // data_type variable_name = value;
@@ -19,7 +20,24 @@
 
 
 // ----------------------------------------------------------------------------------------------
-// Data types 
+// Data types
+// ----------------------------------------------------------------------------------------------
+// 1. Primitive Data Types(intrinsic types)
+//    - int: Represents a 32-bit signed integer. Example: int age = 25;
+//    - double: Represents a 64-bit double-precision floating-point number. Example: double price = 19.99;
+//    - char: Represents a single 16-bit Unicode character. Example: char grade = 'A';
+//    - boolean: Represents a true or false value. Example: boolean isActive = true;
+//    - byte: Represents an 8-bit signed integer. Example: byte b = 100;
+//    - short: Represents a 16-bit signed integer. Example: short s = 1000;
+//    - long: Represents a 64-bit signed integer. Example: long l = 100000L;
+//    - float: Represents a 32-bit single-precision floating-point number. Example: float f = 10.5f;
+
+// 2. Non-Primitive Data Types(derived types)
+//    - String: Represents a sequence of characters. Example: String name = "John";
+//    - Arrays: Represents a collection of elements of the same type. Example: int[] numbers = {1, 2, 3};
+//    - Classes: Represents a blueprint for creating objects. Example: class Person { String name; int age; }
+//   - Interfaces: Represents a contract that classes can implement. Example: interface Animal { void sound(); }
+// ----------------------------------------------------------------------------------------------
 
 
 
