@@ -39,3 +39,30 @@ public class Basic {
         System.out.println("Hello World");
     }
 }
+
+// ------------------------------------------------------------------------------------------------------
+// Java Naming Conventions:
+// 1. Class names should start with an uppercase letter and use CamelCase.
+// 2. Method names should start with a lowercase letter and use camelCase.
+// 3. Variable names should start with a lowercase letter and use camelCase.
+// 4. Constants should be in uppercase letters with underscores separating words.
+// 5. Package names should be in lowercase letters and use dot notation to separate words.
+// 6. Use meaningful names that describe the purpose of the class, method, or variable.
+// 7. Avoid using single-letter variable names except for loop counters.
+// 8. Avoid using underscores in variable names.
+// 9. Avoid using reserved keywords as variable names.
+// 10. Use descriptive names for classes, methods, and variables to improve code readability.
+// ------------------------------------------------------------------------------------------------------
+
+
+// ------------------------------------------------------------------------------------------------------
+// Java Comments:
+// 1. Single-line comments start with // and continue to the end of the line.
+// 2. Multi-line comments start with /* and end with */.
+// 3. Documentation comments start with /** and end with */.//
+//  ------------------------------------------------------------------------------------------------------
+
+
+//  ------------------------------------------------------------------------------------------------------
+
+//  ------------------------------------------------------------------------------------------------------
