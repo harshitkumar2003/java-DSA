@@ -134,7 +134,8 @@ public class Basic {
 // - nextDouble() is used to read a double value.
 // - nextLine() is used to read a string value.
 // - next() is used to read a single word.
-syntax:
+
+/**  syntax:
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -145,7 +146,7 @@ public class Main {
         int age = scanner.nextInt(); // read an integer value
         System.out.println("Hello " + name + ", you are " + age + " years old."); // print the output
         }
-    }
+    }  */
 
 // -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
