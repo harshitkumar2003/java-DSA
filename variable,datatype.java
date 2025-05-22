@@ -48,5 +48,16 @@
 // char -> char
 // Boolean -> true/false
 // In order to choose the data tybe we must need to find the type of data we want want to store. After that we need to analyze the Min 8 Max value we might use.
+// ----------------------------------------------------------------------------------------------
+
+
+// ----------------------------------------------------------------------------------------------
+// keywords
+// Words which are reserved by the programming language and cannot be used as variable names. For example, int, class, public, etc.
+// ----------------------------------------------------------------------------------------------
+
+
+// ----------------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------------
 
 
