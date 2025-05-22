@@ -102,10 +102,10 @@ public class Basic {
 //    - Arrays: Represents a collection of elements of the same type. Example: int[] numbers = {1, 2, 3};
 //    - Classes: Represents a blueprint for creating objects. Example: class Person { String name; int age; }
 //   - Interfaces: Represents a contract that classes can implement. Example: interface Animal { void sound(); }
-// ----------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 
 
-// ----------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 // How to choose data types for owr Variables
 // Primitive Data Types
 // Inlegral(int) -> byte, short, int, long
@@ -113,15 +113,17 @@ public class Basic {
 // char -> char
 // Boolean -> true/false
 // In order to choose the data tybe we must need to find the type of data we want want to store. After that we need to analyze the Min 8 Max value we might use.
-// ----------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 
 
-// ----------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 // keywords
 // Words which are reserved by the programming language and cannot be used as variable names. For example, int, class, public, etc.
-// ----------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 
 
-// ----------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 // Reading data from the keyword
-//  ------------------------------------------------------------------------------------------------------
+// 1. Scanner class is used to read input from the user.
+// 2. Scanner class is part of the java.util package.
+// -------------------------------------------------------------------------------------------------------
