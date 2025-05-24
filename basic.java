@@ -128,36 +128,7 @@ public class Basic {
 
 
 // -------------------------------------------------------------------------------------------------------
-// Reading data from the keyword
-// 1. Scanner class is used to read input from the user.
-// 2. Scanner class is part of the java.util package.
-// 3. To use the Scanner class, we need to import the java.util package.
-// 4. We can create an object of the Scanner class using the new keyword.
-// 5. The Scanner class has several methods to read different types of data.
-// 6. The most commonly used methods are nextInt(), nextDouble(), nextLine(), and next().
-// - nextInt() is used to read an integer value.
-// - nextDouble() is used to read a double value.
-// - nextLine() is used to read a string value.
-// - next() is used to read a single word.
-
-/**  syntax:
-import java.util.Scanner;
-public class Main {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // create a Scanner object
-        System.out.print("Enter your name: "); // prompt the user for input
-        String name = scanner.nextLine(); // read a string value
-        System.out.print("Enter your age: "); // prompt the user for input
-        int age = scanner.nextInt(); // read an integer value
-        System.out.println("Hello " + name + ", you are " + age + " years old."); // print the output
-        }
-    }  */
-
-// -------------------------------------------------------------------------------------------------------
-
-
-// -------------------------------------------------------------------------------------------------------
-//  How to read data from the user using Scanner class
+// How to read data from the user using Scanner class
 // 1. Import the Scanner class from the java.util package.
 // import java.util.Scanner;
 // 2. Create an object of the Scanner class using the new keyword.
@@ -169,6 +140,7 @@ public class Main {
 //   - Use next() to read a single word.
 // 4. Close the Scanner object after use to free up system resources.
 // scanner.close();
+// -------------------------------------------------------------------------------------------------------
 // 5. Example:
 public class Basic {
     public static void main(String[] args) {
