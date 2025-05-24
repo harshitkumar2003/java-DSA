@@ -165,5 +165,9 @@ Scanner scanner = new Scanner(System.in);
 // 3. Use the appropriate method of the Scanner class to read the input.
 //   - Use nextInt() to read an integer value.
 //   - Use nextDouble() to read a double value.
+//   - Use nextLine() to read a string value.
+//   - Use next() to read a single word.
+// 4. Close the Scanner object after use to free up system resources.
+// 5. Example:
 
 // -------------------------------------------------------------------------------------------------------
