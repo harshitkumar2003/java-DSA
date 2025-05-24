@@ -123,7 +123,7 @@ public class Basic {
 
 // -------------------------------------------------------------------------------------------------------
 // keywords
-// Words which are reserved by the programming language and cannot be used as variable names. For example, int, class, public, etc.
+// Words which are reserved by the programming language and cannot be used as variable names, they cannot used as a identifier. For example, int, class, public, etc.
 // -------------------------------------------------------------------------------------------------------
 
 
