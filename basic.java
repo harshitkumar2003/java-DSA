@@ -150,12 +150,12 @@ public class Basic {
       //  System.out.print("Enter your age: "); // Prompt the user for input
       //  int age = scanner.nextInt(); // Read an integer value
       //  System.out.println("Hello " + name + ", you are " + age + " years old."); // Print the output
-        scanner.close(); // Close the Scanner object. why we use this?
+      //  scanner.close(); // Close the Scanner object. why we use this?
         // Closing the Scanner object is important to free up system resources and avoid memory leaks.
         // If you don't close the Scanner object, it will remain open and consume system resources until
         // the program terminates. This can lead to performance issues, especially in larger applications.
-    }
-}
+   // }
+// }
 // -------------------------------------------------------------------------------------------------------
 
 
