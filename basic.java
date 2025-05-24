@@ -193,12 +193,10 @@ public class Basic {
 
 
 // -------------------------------------------------------------------------------------------------------
-Practice Questiom
-1 Write a program to sum thre nunbers in Java
-2 Write a program to calculate CGPA using marksof thee sulificts (out of 100)
-3 Wirile n Jnra propam whiet siss asks the sher toi enter his/her name
-"Hello <name>, have a good day" text
-5
-Write a Java program to lonvert Kilometers to miles
+// Practice Questiom
+// 1 Write a program to sum three nunbers in Java.
+// 2 Write a program to calculate CGPA using marksof three subjects (out of 100).
+// 3 Write a java program which asks the user to enter his/her name greets them with "Hello <name>, have a good day" text.
+// Write a Java program to convert Kilometers to miles.
 Wite a Javsa progran to detect whether a nunberentered by the user is integer or not.
 // -------------------------------------------------------------------------------------------------------
