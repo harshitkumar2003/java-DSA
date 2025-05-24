@@ -159,15 +159,16 @@ public class Main {
 // -------------------------------------------------------------------------------------------------------
 //  How to read data from the user using Scanner class
 // 1. Import the Scanner class from the java.util package.
-import java.util.Scanner;
+// import java.util.Scanner;
 // 2. Create an object of the Scanner class using the new keyword.
-Scanner scanner = new Scanner(System.in);
+// Scanner scanner = new Scanner(System.in);
 // 3. Use the appropriate method of the Scanner class to read the input.
 //   - Use nextInt() to read an integer value.
 //   - Use nextDouble() to read a double value.
 //   - Use nextLine() to read a string value.
 //   - Use next() to read a single word.
 // 4. Close the Scanner object after use to free up system resources.
+// scanner.close();
 // 5. Example:
 public class Basic {
     public static void main(String[] args) {
