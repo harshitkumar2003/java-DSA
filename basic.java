@@ -161,7 +161,7 @@ public class Basic {
 
 // -------------------------------------------------------------------------------------------------------
 // Write a proganm to calculate percentage of a given student in CBSE board exam His 'marks from 5 Suljects must be taken as input from the keyboardd (Marks are out of 100).
-import.java.util.Scanner;
+import java.util.Scanner;
 public class PercentageCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
