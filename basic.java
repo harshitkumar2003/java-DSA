@@ -193,5 +193,12 @@ public class Basic {
 
 
 // -------------------------------------------------------------------------------------------------------
-
+Practice Questiom
+1 Write a program to sum thre nunbers in Java
+2 Write a program to calculate CGPA using marksof thee sulificts (out of 100)
+3 Wirile n Jnra propam whiet siss asks the sher toi enter his/her name
+"Hello <name>, have a good day" text
+5
+Write a Java program to lonvert Kilometers to miles
+Wite a Javsa progran to detect whether a nunberentered by the user is integer or not.
 // -------------------------------------------------------------------------------------------------------
