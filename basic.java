@@ -142,14 +142,14 @@ public class Basic {
 // scanner.close();
 // -------------------------------------------------------------------------------------------------------
 // 5. Example:
-public class Basic {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // Create a Scanner object
-        System.out.print("Enter your name: "); // Prompt the user for input
-        String name = scanner.nextLine(); // Read a string value
-        System.out.print("Enter your age: "); // Prompt the user for input
-        int age = scanner.nextInt(); // Read an integer value
-        System.out.println("Hello " + name + ", you are " + age + " years old."); // Print the output
+// public class Basic {
+    // public static void main(String[] args) {
+       // Scanner scanner = new Scanner(System.in); // Create a Scanner object
+      //  System.out.print("Enter your name: "); // Prompt the user for input
+      //  String name = scanner.nextLine(); // Read a string value
+      //  System.out.print("Enter your age: "); // Prompt the user for input
+      //  int age = scanner.nextInt(); // Read an integer value
+      //  System.out.println("Hello " + name + ", you are " + age + " years old."); // Print the output
         scanner.close(); // Close the Scanner object. why we use this?
         // Closing the Scanner object is important to free up system resources and avoid memory leaks.
         // If you don't close the Scanner object, it will remain open and consume system resources until
@@ -161,4 +161,32 @@ public class Basic {
 
 // -------------------------------------------------------------------------------------------------------
 // Write a proganm to calculate percentage of a given student in CBSE board exam His 'marks from 5 Suljects must be taken as input from the keyboardd (Marks are out of 100).
+import.java.util.Scanner;
+public class PercentageCalculator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
+
+        // Prompt the user for input
+        System.out.print("Enter marks for Subject 1: ");
+        int subject1 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 2: ");
+        int subject2 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 3: ");
+        int subject3 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 4: ");
+        int subject4 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 5: ");
+        int subject5 = scanner.nextInt();
+
+        // Calculate total and percentage
+        int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
+        double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
+
+        // Print the result
+        System.out.println("Total Marks: " + totalMarks);
+        System.out.println("Percentage: " + percentage + "%");
+
+        scanner.close(); // Close the Scanner object
+    }
+}
 // -------------------------------------------------------------------------------------------------------
