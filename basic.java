@@ -187,4 +187,5 @@ public class Basic {
 
 
 // -------------------------------------------------------------------------------------------------------
+// Write a proganm to calculate percentage of a given student in CBSE board exam His 'marks from 5 Suljects must be taken as input from the keyboardd (Marks are out of 100).
 // -------------------------------------------------------------------------------------------------------
