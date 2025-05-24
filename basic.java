@@ -169,5 +169,16 @@ Scanner scanner = new Scanner(System.in);
 //   - Use next() to read a single word.
 // 4. Close the Scanner object after use to free up system resources.
 // 5. Example:
+public class Basic {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
+        System.out.print("Enter your name: "); // Prompt the user for input
+        String name = scanner.nextLine(); // Read a string value
+        System.out.print("Enter your age: "); // Prompt the user for input
+        int age = scanner.nextInt(); // Read an integer value
+        System.out.println("Hello " + name + ", you are " + age + " years old."); // Print the output
+        scanner.close(); // Close the Scanner object
+    }
+}
 
 // -------------------------------------------------------------------------------------------------------
