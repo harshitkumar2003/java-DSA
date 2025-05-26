@@ -165,7 +165,6 @@ import java.util.Scanner;
 public class PercentageCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
-
         // Prompt the user for input
         System.out.print("Enter marks for Subject 1: ");
         int subject1 = scanner.nextInt();
