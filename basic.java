@@ -204,7 +204,7 @@ public class PercentageCalculator {
         System.out.print("Enter Number 2: ");
         int num2 = scanner.nextInt();
         System.out.print("Enter Number 3: ");
-        int subject3 = scanner.nextInt();
+        int num3 = scanner.nextInt();
         // Calculate total sum
         int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
         double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
