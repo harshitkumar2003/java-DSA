@@ -172,22 +172,22 @@ public class PercentageCalculator {
         System.out.print("Enter marks for Subject 2: ");
         int subject2 = scanner.nextInt();
         System.out.print("Enter marks for Subject 3: ");
-    //     int subject3 = scanner.nextInt();
-    //     System.out.print("Enter marks for Subject 4: ");
-    //     int subject4 = scanner.nextInt();
-    //     System.out.print("Enter marks for Subject 5: ");
-    //     int subject5 = scanner.nextInt();
+        int subject3 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 4: ");
+        int subject4 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 5: ");
+        int subject5 = scanner.nextInt();
 
-    //     // Calculate total and percentage
-    //     int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
-    //     double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
+        // Calculate total and percentage
+        int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
+        double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
 
-    //     // Print the result
-    //     System.out.println("Total Marks: " + totalMarks);
-    //     System.out.println("Percentage: " + percentage + "%");
+        // Print the result
+        System.out.println("Total Marks: " + totalMarks);
+        System.out.println("Percentage: " + percentage + "%");
 
-    //     scanner.close(); // Close the Scanner object
-    // }
+        scanner.close(); // Close the Scanner object
+    }
 }
 // -------------------------------------------------------------------------------------------------------
 
