@@ -168,10 +168,10 @@ public class PercentageCalculator {
 
         // Prompt the user for input
         System.out.print("Enter marks for Subject 1: ");
-    //     int subject1 = scanner.nextInt();
-    //     System.out.print("Enter marks for Subject 2: ");
-    //     int subject2 = scanner.nextInt();
-    //     System.out.print("Enter marks for Subject 3: ");
+        int subject1 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 2: ");
+        int subject2 = scanner.nextInt();
+        System.out.print("Enter marks for Subject 3: ");
     //     int subject3 = scanner.nextInt();
     //     System.out.print("Enter marks for Subject 4: ");
     //     int subject4 = scanner.nextInt();
