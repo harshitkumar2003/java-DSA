@@ -194,6 +194,28 @@ public class PercentageCalculator {
 // -------------------------------------------------------------------------------------------------------
 // Practice Questiom
 // 1 Write a program to sum three nunbers in Java.
+import java.util.Scanner;
+public class PercentageCalculator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
+        // Prompt the user for input
+        System.out.print("Enter Number 1: ");
+        int num1 = scanner.nextInt();
+        System.out.print("Enter Number 2: ");
+        int subject2 = scanner.nextInt();
+        System.out.print("Enter Number 3: ");
+        int subject3 = scanner.nextInt();
+        // Calculate total sum
+        int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
+        double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
+
+        // Print the result
+        System.out.println("Total Marks: " + totalMarks);
+        System.out.println("Percentage: " + percentage + "%");
+
+        scanner.close(); // Close the Scanner object
+    }
+}
 // 2 Write a program to calculate CGPA using marksof three subjects (out of 100).
 // 3 Write a java program which asks the user to enter his/her name greets them with "Hello <name>, have a good day" text.
 // 4 Write a Java program to convert Kilometers to miles.
