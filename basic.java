@@ -161,34 +161,34 @@ public class Basic {
 
 // -------------------------------------------------------------------------------------------------------
 // Write a proganm to calculate percentage of a given student in CBSE board exam His 'marks from 5 Suljects must be taken as input from the keyboardd (Marks are out of 100).
-// import java.util.Scanner;
-// public class PercentageCalculator {
-//     public static void main(String[] args) {
-//         Scanner scanner = new Scanner(System.in); // Create a Scanner object
+import java.util.Scanner;
+public class PercentageCalculator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
 
-//         // Prompt the user for input
-//         System.out.print("Enter marks for Subject 1: ");
-//         int subject1 = scanner.nextInt();
-//         System.out.print("Enter marks for Subject 2: ");
-//         int subject2 = scanner.nextInt();
-//         System.out.print("Enter marks for Subject 3: ");
-//         int subject3 = scanner.nextInt();
-//         System.out.print("Enter marks for Subject 4: ");
-//         int subject4 = scanner.nextInt();
-//         System.out.print("Enter marks for Subject 5: ");
-//         int subject5 = scanner.nextInt();
+    //     // Prompt the user for input
+    //     System.out.print("Enter marks for Subject 1: ");
+    //     int subject1 = scanner.nextInt();
+    //     System.out.print("Enter marks for Subject 2: ");
+    //     int subject2 = scanner.nextInt();
+    //     System.out.print("Enter marks for Subject 3: ");
+    //     int subject3 = scanner.nextInt();
+    //     System.out.print("Enter marks for Subject 4: ");
+    //     int subject4 = scanner.nextInt();
+    //     System.out.print("Enter marks for Subject 5: ");
+    //     int subject5 = scanner.nextInt();
 
-//         // Calculate total and percentage
-//         int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
-//         double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
+    //     // Calculate total and percentage
+    //     int totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
+    //     double percentage = (totalMarks / 500.0) * 100; // Total marks are out of 500
 
-//         // Print the result
-//         System.out.println("Total Marks: " + totalMarks);
-//         System.out.println("Percentage: " + percentage + "%");
+    //     // Print the result
+    //     System.out.println("Total Marks: " + totalMarks);
+    //     System.out.println("Percentage: " + percentage + "%");
 
-//         scanner.close(); // Close the Scanner object
-//     }
-// }
+    //     scanner.close(); // Close the Scanner object
+    // }
+}
 // -------------------------------------------------------------------------------------------------------
 
 
