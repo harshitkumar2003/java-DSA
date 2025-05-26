@@ -202,7 +202,7 @@ public class PercentageCalculator {
         System.out.print("Enter Number 1: ");
         int num1 = scanner.nextInt();
         System.out.print("Enter Number 2: ");
-        int subject2 = scanner.nextInt();
+        int num2 = scanner.nextInt();
         System.out.print("Enter Number 3: ");
         int subject3 = scanner.nextInt();
         // Calculate total sum
