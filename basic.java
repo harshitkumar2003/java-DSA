@@ -226,9 +226,9 @@ public class PercentageCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
         // Prompt the user for input
-        System.out.print("Enter Number 1: ");
+        System.out.print("Enter marks for subject 1: ");
         int num1 = scanner.nextInt();
-        System.out.print("Enter Number 2: ");
+        System.out.print("Enter marks for subject 2: ");
         int num2 = scanner.nextInt();
         System.out.print("Enter Number 3: ");
         int num3 = scanner.nextInt();
