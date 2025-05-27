@@ -230,14 +230,16 @@ public class PercentageCalculator {
         int num1 = scanner.nextInt();
         System.out.print("Enter marks for subject 2: ");
         int num2 = scanner.nextInt();
-        System.out.print("Enter Number 3: ");
+        System.out.print("Enter marks for subject 3: ");
         int num3 = scanner.nextInt();
 
         // Calculate total sum
         int sum = num1 + num2 + num3;
+        double cgpa = sum / 30.0; // Assuming each subject is out of 100, CGPA is calculated out of 10
+
         
         // Print the result
-        System.out.println("Total Sum: " + sum);
+        System.out.println("CGPA:" + cgpa);
 
         scanner.close(); // Close the Scanner object
     }
