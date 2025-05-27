@@ -221,6 +221,27 @@ public class PercentageCalculator {
 
 // -------------------------------------------------------------------------------------------------------
 // 2 Write a program to calculate CGPA using marks of three subjects (out of 100).
+import java.util.Scanner;
+public class PercentageCalculator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
+        // Prompt the user for input
+        System.out.print("Enter Number 1: ");
+        int num1 = scanner.nextInt();
+        System.out.print("Enter Number 2: ");
+        int num2 = scanner.nextInt();
+        System.out.print("Enter Number 3: ");
+        int num3 = scanner.nextInt();
+
+        // Calculate total sum
+        int sum = num1 + num2 + num3;
+        
+        // Print the result
+        System.out.println("Total Sum: " + sum);
+
+        scanner.close(); // Close the Scanner object
+    }
+}
 // -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
 // 3 Write a java program which asks the user to enter his/her name greets them with "Hello <name>, have a good day" text.
