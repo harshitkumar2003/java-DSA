@@ -220,7 +220,7 @@ public class PercentageCalculator {
 
 
 // -------------------------------------------------------------------------------------------------------
-// 2 Write a program to calculate CGPA using marksof three subjects (out of 100).
+// 2 Write a program to calculate CGPA using marks of three subjects (out of 100).
 // -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
 // 3 Write a java program which asks the user to enter his/her name greets them with "Hello <name>, have a good day" text.
