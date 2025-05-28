@@ -276,6 +276,7 @@ public class Basic {
 //         // Convert kilometers to miles
 //         // 1 kilometer is approximately equal to 0.621371 miles
 //         double miles = kilometers * 0.621371;
+//         double miles = kilometers / 1.6; // Alternative conversion factor
 //         // Print the greeting message
 //         System.out.println(kilometers + " kilometers is equal to " + miles + " miles.");
 
@@ -296,7 +297,7 @@ public class NumberTypeDetector
         try {
             Integer.parseInt(input); // Try to parse the input as an integer
             System.out.println("The entered number is an integer.");
-        } catch (NumberFormatException e) {
+        } catch (NumberFormatException exception) {
             System.out.println("The entered number is not an integer.");
         } finally {
             scanner.close(); // Close the Scanner object
