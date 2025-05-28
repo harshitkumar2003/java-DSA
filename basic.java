@@ -253,6 +253,10 @@ import java.util.Scanner;
 public class PercentageCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
+           // Prompt the user for input
+        System.out.print("Enter your name: ");
+        int name = scanner.nextLine();
+        // Print the greeting message
 // -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
 // 4 Write a Java program to convert Kilometers to miles.
