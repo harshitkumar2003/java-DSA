@@ -258,6 +258,9 @@ public class PercentageCalculator {
         int name = scanner.nextLine();
         // Print the greeting message
          System.out.println("Hello " + name + ", have a good day!");
+        scanner.close(); // Close the Scanner object
+    }
+}
 // -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
 // 4 Write a Java program to convert Kilometers to miles.
