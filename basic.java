@@ -255,7 +255,7 @@ public class PercentageCalculator {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
            // Prompt the user for input
         System.out.print("Enter your name: ");
-        int name = scanner.nextLine();
+        String name = scanner.nextLine();
         // Print the greeting message
          System.out.println("Hello " + name + ", have a good day!");
         scanner.close(); // Close the Scanner object
