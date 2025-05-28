@@ -196,7 +196,7 @@ public class Basic {
 // -------------------------------------------------------------------------------------------------------
 // 1 Write a program to sum three nunbers in Java.
 // import java.util.Scanner;
-// public class PercentageCalculator {
+// public classSumThreeNumbers {
 //     public static void main(String[] args) {
 //         Scanner scanner = new Scanner(System.in); // Create a Scanner object
 //         // Prompt the user for input
