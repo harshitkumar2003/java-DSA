@@ -250,7 +250,7 @@ public class Basic {
 // -------------------------------------------------------------------------------------------------------
 // 3 Write a java program which asks the user to enter his/her name greets them with "Hello <name>, have a good day" text.
 import java.util.Scanner;
-public class message {
+public class Greet {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
            // Prompt the user for input
