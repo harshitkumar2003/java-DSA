@@ -249,6 +249,10 @@ public class PercentageCalculator {
 
 // -------------------------------------------------------------------------------------------------------
 // 3 Write a java program which asks the user to enter his/her name greets them with "Hello <name>, have a good day" text.
+import java.util.Scanner;
+public class PercentageCalculator {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); // Create a Scanner object
 // -------------------------------------------------------------------------------------------------------
 // -------------------------------------------------------------------------------------------------------
 // 4 Write a Java program to convert Kilometers to miles.
