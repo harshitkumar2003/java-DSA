@@ -222,7 +222,7 @@ public class Basic {
 // -------------------------------------------------------------------------------------------------------
 // 2 Write a program to calculate CGPA using marks of three subjects (out of 100).
 // import java.util.Scanner;
-// public class PercentageCalculator {
+// public class CGPACalculator {
 //     public static void main(String[] args) {
 //         Scanner scanner = new Scanner(System.in); // Create a Scanner object
 //         // Prompt the user for input
