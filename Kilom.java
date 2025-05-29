@@ -267,7 +267,7 @@ public class Basic {
 // -------------------------------------------------------------------------------------------------------
 // 4 Write a Java program to convert Kilometers to miles.
 import java.util.Scanner;
-public class Kilometers {
+public class  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object
            // Prompt the user for input
