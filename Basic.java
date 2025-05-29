@@ -284,24 +284,3 @@ public class Basic {
 //     }
 // }
 // -------------------------------------------------------------------------------------------------------
-// -------------------------------------------------------------------------------------------------------
-// 5 Write a java program to detect whether a nunber entered by the user is integer or not.
-import java.util.Scanner;
-public class NumberTypeDetector
-{
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // Create a Scanner object
-        System.out.print("Enter a number: "); // Prompt the user for input
-        String input = scanner.nextLine(); // Read the input as a string
-
-        try {
-            Integer.parseInt(input); // Try to parse the input as an integer
-            System.out.println("The entered number is an integer.");
-        } catch (NumberFormatException exception) {
-            System.out.println("The entered number is not an integer.");
-        } finally {
-            scanner.close(); // Close the Scanner object
-        }
-    }
-}
-// -------------------------------------------------------------------------------------------------------
