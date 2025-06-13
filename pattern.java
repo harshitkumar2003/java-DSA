@@ -62,12 +62,12 @@ import java.util.Scanner;
 
        
     int n = sc.nextInt(); // Read the input number
-    int m = sc.nextInt(5); // Read the input number
+    int m = 5; // Read the input number
 
     for (int i = 1; i <= n; i++) { // Loop through rows
         for (int j = 1; j <= m; j++) { // Loop through columns
-            if (i==1 || j == 1 || j == m || i == n) { // Check if it's the first or last column or last row
-            System.out.print("*"+" "); // Print the current row number
+            if (i == 1 || j == 1 || j == m || i == n) { // Check if it's the first or last column or last row
+            System.out.print("*"); // Print the current row number
         }
         else {
             System.out.print(" "); // Print space for other positions
