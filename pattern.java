@@ -204,5 +204,28 @@
 // ------------------------------------------------------------------------------------------------
 
 
+// ------------------------------------------------------------------------------------------------
+//  import java.util.Scanner;
+// 12345
+// 1234
+// 123
+// 12
+// 1
+//   public class pattern {
+//       public static void main(String[] args) {     
+//       Scanner sc = new Scanner(System.in); 
+//       System.out.println("Enter the number to be print for pattern: ");
+//         int m = 5; // Read the input number
+//         for (int i = m; i >= 1; i--) { // Loop through rows
+//             for (int j = 1; j <= i; j++) { // Loop through columns for spaces         
+//                 System.out.print(j); // Print the current row number
+//             } 
+//             System.out.println(); // Move to the next line after each row
+//             }
+//           } 
+//         }
+// ------------------------------------------------------------------------------------------------
+
+
  
   
