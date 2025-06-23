@@ -133,24 +133,34 @@
 
 
 // ------------------------------------------------------------------------------------------------
- import java.util.Scanner;
+//  import java.util.Scanner;
+//     *
+//    **
+//   ***
+//  ****
+// *****
+//   public class pattern {
+//       public static void main(String[] args) {     
+//       Scanner sc = new Scanner(System.in); 
+//       System.out.println("Enter the number to be print for pattern: ");
+//         int m = 5; // Read the input number
+//         for (int i = 1; i <= m; i++) { // Loop through rows
+//             for (int j = 1; j <= m - i; j++) { // Loop through columns
+//                 System.out.print(" "); // Print the current row number
+//             }
+//             for (int k = 1; k <= i; k++) { // Loop to print asterisks
+//                 System.out.print("*"); // Print the current row number
+//             } 
+//             System.out.println(); // Move to the next line after each row
+//             }
+//           } 
+//         }
+// ------------------------------------------------------------------------------------------------
 
-  public class pattern {
-      public static void main(String[] args) {     
-      Scanner sc = new Scanner(System.in); 
-      System.out.println("Enter the number to be print for pattern: ");
-        int m = 5; // Read the input number
-        for (int i = m; i >= m; i++) { // Loop through rows
-            for (int j = 1; j <= m - 1; j++) { // Loop through columns
-                System.out.print(" "); // Print the current row number
-            }
-            for (int k = 1; k <= i; k++) { // Loop to print asterisks
-                System.out.print("*"); // Print the current row number
-            } 
-            System.out.println(); // Move to the next line after each row
-            }
-          } 
-      }
+
+// ------------------------------------------------------------------------------------------------
+
+
 // ------------------------------------------------------------------------------------------------
 
 
