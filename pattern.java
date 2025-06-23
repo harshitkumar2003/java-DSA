@@ -136,7 +136,7 @@
  import java.util.Scanner;
 
   public class pattern {
-      public static void main(String[] args)  {     
+      public static void main(String[] args) {     
       Scanner sc = new Scanner(System.in); 
       System.out.println("Enter the number to be print for pattern: ");
         int m = 5; // Read the input number
@@ -149,11 +149,9 @@
             } 
             System.out.println(); // Move to the next line after each row
             }
-            \\
-
-
+          } 
       }
-    }
+// ------------------------------------------------------------------------------------------------
 
 
  
