@@ -4,20 +4,23 @@
 //  public class BasicArray {
 //      public static void main(String[] args) {
 //          int[]marks = new int[3];
-//         //  int[]marks = {33, 23, 22};  'this is also a valid syntax'
+        //  int[]marks = {33, 23, 22};  'this is also a valid syntax'
 //           marks[0] = 97;  //hindi
 //           marks[1] = 95;  //english
 //           marks[2] = 95;  //math
 //           System.out.println(marks[0]);
 //           System.out.println(marks[1]);
 //           System.out.println(marks[2]);
-//         // we can also use loopa to print 
+       // we can also use loopa to print 
 //          for(int i = 0; i < 3; i++){
 //              System.out.println(marks[i]);
 //          }
 //  }
 //  }
+// ------------------------------------------------------------------------------------------------
 
+
+// ------------------------------------------------------------------------------------------------
 //  package Arrays;
 // import java.util.*;
 
@@ -36,7 +39,10 @@
 //          }
 //  }
 //  }
+// ------------------------------------------------------------------------------------------------
 
+
+// ------------------------------------------------------------------------------------------------
 package Arrays;
 
 import java.util.*;
@@ -58,6 +64,6 @@ public class BasicArray {
         System.out.println("X found at index of: " + i);
     }
   }
-  
 }
 }
+// ------------------------------------------------------------------------------------------------
