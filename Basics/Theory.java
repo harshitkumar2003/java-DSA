@@ -113,7 +113,7 @@ public class Basic {
 // -------------------------------------------------------------------------------------------------------
 // How to choose data types for owr Variables
 // Primitive Data Types
-// Inlegral(int) -> byte, short, int, long
+// Integral(int) -> byte, short, int, long
 // float (Decimal) -> float, double
 // char -> char
 // Boolean -> true/false
@@ -156,4 +156,19 @@ public class Basic {
         // the program terminates. This can lead to performance issues, especially in larger applications.
    // }
 // }
+// -------------------------------------------------------------------------------------------------------
+//Operators in java
+// 1. Arithmetic Operators: +, -, *, /, %
+// 2. Assignment Operators: =, +=, -=, *=, /=, %=
+// 3. Comparison Operators: ==, !=, >, <, >=, <=
+// 4. Logical Operators: &&, ||, !
+// 5. Increment and Decrement Operators: ++, --
+// 6. Ternary Operator: ? :
+// 7. bitwise Operators: &, |, ^, ~, <<, >>, >>>
+// -------------------------------------------------------------------------------------------------------
+// Conditions
+// if -> it executes a block of code if the condition is true
+// if-else -> it executes one block of code if the condition is true and another block of code if the condition is false
+// nested if-else -> it is an if-else statement inside another if-else statement
+// switch -> it is a control flow statement that allows a variable to be tested for equality against a list of values
 // -------------------------------------------------------------------------------------------------------

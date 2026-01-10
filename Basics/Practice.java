@@ -123,3 +123,79 @@ package Basics;
 //     }
 // }
 // -------------------------------------------------------------------------------------------------------
+
+// -------------------------------------------------------------------------------------------------------
+// 5 Write a Java program using conditional statements to find out whether a student has passed or failed. The passing marks are 40.
+
+// public class Practice {
+//     public static void main(String[] args) {
+//         int marks = 34;
+//         if (marks >= 40) {
+//             System.out.println("The student has passed.");
+//         } else {
+//             System.out.println("The student has failed.");
+//         }
+//     }
+// }
+
+// -------------------------------------------------------------------------------------------------------
+// 6 Write a Java program to find the largest of three numbers using nested if-else statements.
+//  public class Practice {
+//     public static void main (String[] args) {
+//         int num1 = 41;
+//         int num2 = 44;
+//         int num3 = 45;
+//         if (num1 >= num2 && num1 >= num2) {
+//             System.out.println(num1 + " is the largest number.");
+//         } else if (num2 >= num1 && num2 >= num3) {
+//             System.out.println(num2 + " is the largest number.");
+//         } else {
+//             System.out.println(num3 + " is the largest number.");
+//         }
+//     }
+//  }
+
+
+// -------------------------------------------------------------------------------------------------------
+// 7 Write a Java program to make a simple calculator that can perform addition, subtraction, multiplication, and division based on user input.
+// import java.util.Scanner;
+//     public class Practice {
+//         public static void main (String[] args) {
+//             Scanner scanner = new Scanner(System.in);
+//             System.out.print("Enter first number: ");
+//             double num1 = scanner.nextDouble();
+//             System.out.print("Enter second number: ");
+//             double num2 = scanner.nextDouble();
+//             System.out.print("Enter an operator (+, -, *, /): ");
+//             char operator = scanner.next().charAt(0);
+//             double result;
+    
+//             switch (operator) {
+//                 case '+':
+//                     result = num1 + num2;
+//                     break;
+//                 case '-':
+//                     result = num1 - num2;
+//                     break;
+//                 case '*':
+//                     result = num1 * num2;
+//                     break;
+//                 case '/':
+//                     if (num2 != 0) {
+//                         result = num1 / num2;
+//                     } else {
+//                         System.out.println("Error: Division by zero is not allowed.");
+//                         scanner.close();
+//                         return;
+//                     }
+//                     break;
+//                 default:
+//                     System.out.println("Error: Invalid operator.");
+//                     scanner.close();
+//                     return;
+//             }
+    
+//             System.out.println("The result is: " + result);
+//             scanner.close();
+//         }
+//  }
