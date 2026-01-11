@@ -1,12 +1,14 @@
 public class Hello {
     public static void main(String[] args) {
         //! Printing hello world in console
-        System.out.print("Hello java how are you!");
+        System.out.println("Hello java how are you!");
 
         //! Perform operation in console without variable
         System.out.println(3 + 5);
         System.out.println(3 - 2);
-        System.out.println(3 * 3);
+        System.out.println(8 * 3);
+        System.out.println(3 / 9);
+        System.out.println(3 % 3);
 
         //! Performing operation using variable
         // int num1 = 5;
