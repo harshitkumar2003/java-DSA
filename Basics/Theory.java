@@ -1,13 +1,13 @@
 // ===================
 // java
 // ===================
-// java is an purely objectt oriented programming language developed by sum microsystems of USA in 1991
-// java is a high level programming language
-// It was originally called jack by james(one of the inventors of java) gaslin
+//! java is an purely objectt oriented programming language developed by sum microsystems of USA in 1991
+//! java is a high level programming language
+//! It was originally called jack by james(one of the inventors of java) gaslin
 
 // -----------------------------------------------------------------------------------------------------
-// How JAVA works:
-// java is compiled into to the bytecode and then interpreted to the machine code
+//! How JAVA works:
+// TODOjava is compiled into to the bytecode and then interpreted to the machine code
 // 1. Java source code is written in .java file
 // 2. Java compiler compiles the .java file and generates .class file
 // 3. Java interpreter reads the .class file and executes the bytecode
@@ -19,34 +19,33 @@
 
 // ------------------------------------------------------------------------------------------------------
 // JAVA Installation:
-// JDK = "Java Development Kit" collection of tools used for developing and running java programs
+//! JDK = "Java Development Kit" collection of tools used for developing and running java programs
 // 1. Download the JDK from the official website: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 // 2. Install the JDK by following the instructions on the website
 
-// JRE = "Java Runtime Environment" is a part of JDK that is used to run Java applications/Programs
+//! JRE = "Java Runtime Environment" is a part of JDK that is used to run Java applications/Programs
 // 1. Download the JRE from the official website: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 // 2. Install the JRE by following the instructions on the website
 
-// Basic structure of a Java program:
-// 1. Class Declaration
-// 2. Main Method Declaration
-// 3. Print Statement
-// 4. End of Class Declaration
-// 5. End of Main Method Declaration
-// 6. End of Program
-
+// ------------------------------------------------------------------------------------------------------
+//! Basic structure of a Java program:
+//! 1. Class Declaration
+//! 2. Main Method Declaration
+//! 3. Print Statement
+//! 4. End of Class Declaration
+//! 5. End of Main Method Declaration
+//! 6. End of Program
 
 /**
-public class Basic {
 public class Basic {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
 }
-
  */
+
 // ------------------------------------------------------------------------------------------------------
-// Java Naming Conventions:
+//! Java Naming Conventions:
 // 1. Class names should start with an uppercase letter and use CamelCase.
 // 2. Method names should start with a lowercase letter and use camelCase.
 // 3. Variable names should start with a lowercase letter and use camelCase.
@@ -61,7 +60,7 @@ public class Basic {
 
 
 // ------------------------------------------------------------------------------------------------------
-// Java Comments:
+//! Java Comments:
 // 1. Single-line comments start with // and continue to the end of the line.
 // 2. Multi-line comments start with /* and end with */.
 // 3. Documentation comments start with /** and end with */.//
@@ -69,13 +68,14 @@ public class Basic {
 
 
 // ------------------------------------------------------------------------------------------------------
-// Variablee 
+//! Variablee 
 // ------------------------------------------------------------------------------------------------------
 // A Variable is a named storage location in memory that can hold a value.This value can be changed during the execution of the program. In Java, variables must be declared with a specific data type, which determines the kind of values they can store. The data type also defines the operations that can be performed on the variable.
-// syntax:
-// data_type variable_name = value;
+//! syntax:
+//! data_type variable_name = value;
+
 // -------------------------------------------------------------------------------------------------------
-// Rules for declaring a variable name 
+//! Rules for declaring a variable name 
 // -------------------------------------------------------------------------------------------------------
 // 1. Variable name must start with a letter (a-z, A-Z), underscore (_), or dollar sign ($).
 // 2. Variable name can contain letters, digits (0-9), underscores (_), and dollar signs ($).
@@ -90,7 +90,7 @@ public class Basic {
 
 
 // -------------------------------------------------------------------------------------------------------
-// Data types
+//! Data types
 // -------------------------------------------------------------------------------------------------------
 // 1. Primitive Data Types(intrinsic types)
 //    - int: Represents a 32-bit signed integer. Example: int age = 25;
@@ -122,13 +122,13 @@ public class Basic {
 
 
 // -------------------------------------------------------------------------------------------------------
-// keywords
+//! keywords
 // Words which are reserved by the programming language and cannot be used as variable names, they cannot used as a identifier. For example, int, class, public, etc.
 // -------------------------------------------------------------------------------------------------------
 
 
 // -------------------------------------------------------------------------------------------------------
-// How to read data from the user using Scanner class
+//! How to read data from the user using Scanner class
 // 1. Import the Scanner class from the java.util package.
 // import java.util.Scanner;
 // 2. Create an object of the Scanner class using the new keyword.
@@ -140,6 +140,7 @@ public class Basic {
 //   - Use next() to read a single word.
 // 4. Close the Scanner object after use to free up system resources.
 // scanner.close();
+
 // -------------------------------------------------------------------------------------------------------
 // 5. Example:
 // public class Basic {
@@ -156,6 +157,7 @@ public class Basic {
         // the program terminates. This can lead to performance issues, especially in larger applications.
    // }
 // }
+
 // -------------------------------------------------------------------------------------------------------
 //Operators in java
 // 1. Arithmetic Operators: +, -, *, /, %
@@ -165,6 +167,7 @@ public class Basic {
 // 5. Increment and Decrement Operators: ++, --
 // 6. Ternary Operator: ? :
 // 7. bitwise Operators: &, |, ^, ~, <<, >>, >>>
+
 // -------------------------------------------------------------------------------------------------------
 // Conditions
 // if -> it executes a block of code if the condition is true
