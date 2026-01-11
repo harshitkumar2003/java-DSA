@@ -109,15 +109,15 @@ public class Basic {
 //   - Interfaces: Represents a contract that classes can implement. Example: interface Animal { void sound(); }
 // -------------------------------------------------------------------------------------------------------
 
-
 // -------------------------------------------------------------------------------------------------------
-// How to choose data types for owr Variables
-// Primitive Data Types
-// Integral(int) -> byte, short, int, long
-// float (Decimal) -> float, double
-// char -> char
-// Boolean -> true/false
-// In order to choose the data tybe we must need to find the type of data we want want to store. After that we need to analyze the Min 8 Max value we might use.
+//! Operators in java
+// 1. Arithmetic Operators: +, -, *, /, %
+// 2. Assignment Operators: =, +=, -=, *=, /=, %=
+// 3. Comparison Operators: ==, !=, >, <, >=, <=
+// 4. Logical Operators: &&, ||, !
+// 5. Increment and Decrement Operators: ++, --
+// 6. Ternary Operator: ? :
+// 7. bitwise Operators: &, |, ^, ~, <<, >>, >>>
 // -------------------------------------------------------------------------------------------------------
 
 
@@ -159,19 +159,10 @@ public class Basic {
 // }
 
 // -------------------------------------------------------------------------------------------------------
-//Operators in java
-// 1. Arithmetic Operators: +, -, *, /, %
-// 2. Assignment Operators: =, +=, -=, *=, /=, %=
-// 3. Comparison Operators: ==, !=, >, <, >=, <=
-// 4. Logical Operators: &&, ||, !
-// 5. Increment and Decrement Operators: ++, --
-// 6. Ternary Operator: ? :
-// 7. bitwise Operators: &, |, ^, ~, <<, >>, >>>
-
-// -------------------------------------------------------------------------------------------------------
-// Conditions
+//! Conditional Statements
 // if -> it executes a block of code if the condition is true
 // if-else -> it executes one block of code if the condition is true and another block of code if the condition is false
 // nested if-else -> it is an if-else statement inside another if-else statement
 // switch -> it is a control flow statement that allows a variable to be tested for equality against a list of values
 // -------------------------------------------------------------------------------------------------------
+
