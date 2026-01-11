@@ -4,7 +4,7 @@
 //  public class BasicArray {
 //      public static void main(String[] args) {
 //          int[]marks = new int[3];
-        //  int[]marks = {33, 23, 22};  'this is also a valid syntax'
+//          int[]marks = {33, 23, 22};  'this is also a valid syntax'
 //           marks[0] = 97;  //hindi
 //           marks[1] = 95;  //english
 //           marks[2] = 95;  //math
