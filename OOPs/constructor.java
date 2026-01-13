@@ -87,7 +87,7 @@ public class constructor {
 
         // object 4
         //! obj 4 copy data of obj 3
-        Women w2 = new Women(w1);
+        Women w2 = new Women(w1); // Copy parameters of w1 
         w2.showdet();
 
     }
