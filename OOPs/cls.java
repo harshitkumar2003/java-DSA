@@ -12,7 +12,7 @@ class Student {
     int rollno; 
 
     //! Behaviour (Methods)
-    void show () {
+    void show() {
         System.out.println();
     }
     
@@ -24,7 +24,7 @@ class report {
     int marks;
 
     //! Behaviour (Methods)
-    void result () {
+    void result() {
         System.out.println();
     }
 }
