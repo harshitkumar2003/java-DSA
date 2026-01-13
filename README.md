@@ -13,14 +13,14 @@ Arrays, Strings, Linked Lists
 <!-- ! if-else  -->
 <!-- ! switch -->
 <!-- ! loops  -->
-<!-- ! functions -->
+! functions
 ! recursion
 ! array
 ! string
 
 - Core java
-!
-!
+<!-- ! object  -->
+<!-- ! classes -->
 !
 !
 !

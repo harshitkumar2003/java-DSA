@@ -1,4 +1,3 @@
-import java.rmi.server.SocketSecurityException;
 
 public class Hello {
     public static void main(String[] args) {
