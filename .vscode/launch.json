@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sin",
+            "request": "launch",
+            "mainClass": "OOPs.inheritance.Sin",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "RtimePolymorphism",
+            "request": "launch",
+            "mainClass": "OOPs.polymorphism.RtimePolymorphism",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "constructor",
             "request": "launch",
             "mainClass": "OOPs.constructor",

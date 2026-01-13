@@ -1,4 +1,4 @@
-package OOPs;
+package OOPs.classes;
 
 //! OOPs (Object Oriented Programming) is a programming approach where software is designed using objects that represent real world entities
 
@@ -29,7 +29,7 @@ class report {
     }
 }
 
-public class cls {
+public class classes {
     public static void main(String[] args) {
         
     }

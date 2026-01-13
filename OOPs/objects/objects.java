@@ -1,4 +1,4 @@
-package OOPs;
+package OOPs.objects;
 
 class Car {
     String company;
@@ -23,7 +23,7 @@ class Studentinfo {
     }
 }
 
-public class obj {
+public class objects {
     public static void main(String[] args) {
         //! object 1
         Car c1 = new Car();

@@ -1,4 +1,4 @@
-package OOPs;
+package OOPs.classes;
 
 class Shop {
     String brand;
