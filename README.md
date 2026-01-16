@@ -13,7 +13,7 @@ Arrays, Strings, Linked Lists
 <!-- ! if-else  -->
 <!-- ! switch -->
 <!-- ! loops  -->
-! array
+<!-- ! array -->
 ! functions
 ! recursion
 ! string
