@@ -1,4 +1,4 @@
-package OOPs.classes;
+package oops.classes;
 
 //! OOPs (Object Oriented Programming) is a programming approach where software is designed using objects that represent real world entities
 

@@ -1,4 +1,4 @@
-package OOPs.inheritance;
+package oops.inheritance;
 
     class Parent {
         void show() {

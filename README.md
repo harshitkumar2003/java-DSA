@@ -13,18 +13,19 @@ Arrays, Strings, Linked Lists
 <!-- ! if-else  -->
 <!-- ! switch -->
 <!-- ! loops  -->
+! array
 ! functions
 ! recursion
-! array
 ! string
-
+<!-- ! stack & heap -->
 - Core java
 <!-- ! object  -->
 <!-- ! classes -->
 <!-- ! constructor -->
-!
-!
-!
+<!-- ! Packages -->
+<!-- ! polymorphism -->
+<!-- ! inheritance -->
+! 
 !
 
 # 💡 Features:
