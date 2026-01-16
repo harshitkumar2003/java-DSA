@@ -4,7 +4,8 @@ package arrays;
 
 //! Types of array 
 //! 1. One-Dimensional Array
-//! 2. Multidimensional array
+//! 2. Multidimensional Array
+//! 3. Jagged Array
 
 public class oneD {
   public static void main(String[] args) {

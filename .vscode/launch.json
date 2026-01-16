@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "jag",
+            "request": "launch",
+            "mainClass": "arrays.jag",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "multD",
             "request": "launch",
             "mainClass": "arrays.multD",
