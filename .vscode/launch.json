@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oneD",
+            "request": "launch",
+            "mainClass": "arrays.oneD",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "arrays.Practice",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Sin",
             "request": "launch",
             "mainClass": "OOPs.inheritance.Sin",
