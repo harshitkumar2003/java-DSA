@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arrofobj",
+            "request": "launch",
+            "mainClass": "arrays.arrofobj",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "jag",
             "request": "launch",
             "mainClass": "arrays.jag",
