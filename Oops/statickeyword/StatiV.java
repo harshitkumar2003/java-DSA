@@ -1,4 +1,3 @@
-package statickeyword;
 
 //! Static
 // In Java, the static keyword is used to define members (variables, methods, blocks, nested classes) that belong to the class itself rather than any specific object. This means they are shared across all instances and can be accessed without creating an object.
