@@ -42,3 +42,13 @@ public class StatiV {
     }
     
 }
+
+/* 
+///! STATIC VS NON-STATIC
+Aspect              |             	Static                                 	Non-Static
+Belongs To	        |      Class (shared by all objects)	    |      Individual object (unique per instance)
+Memory Allocation	|     Created once when class is loaded	    |    Created separately for each object
+Access Method	    |         Accessed using class name	        |      Accessed using object reference
+Can Access	        |     Only other static members directly	|         Both static and non-static members
+Common Use	        |  Utility methods, constants, shared data  |    	  Object-specific data and behavior
+*/
