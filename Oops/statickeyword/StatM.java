@@ -1,5 +1,3 @@
-
-
 //! A static method belongs to the class rather than to any object. It can be called directly using the class name.
 
 //! Can access only static data directly.

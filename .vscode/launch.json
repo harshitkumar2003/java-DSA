@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "StatB",
+            "request": "launch",
+            "mainClass": "StatB",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "StatM",
             "request": "launch",
             "mainClass": "statickeyword.StatM",

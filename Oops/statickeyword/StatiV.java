@@ -1,8 +1,7 @@
-
 //! Static
 // In Java, the static keyword is used to define members (variables, methods, blocks, nested classes) that belong to the class itself rather than any specific object. This means they are shared across all instances and can be accessed without creating an object.
 
-//! 1. A static variable is also known as a class variable. It is shared among all instances of the class and is used to store data that should be common for all objects.
+//! A static variable is also known as a class variable. It is shared among all instances of the class and is used to store data that should be common for all objects.
 class Mobile {
     String brand;
     String name;

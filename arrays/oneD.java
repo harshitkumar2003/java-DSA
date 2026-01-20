@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 
 //! A Java array is a collection of elements of the same data type stored in a fixed-size list and accessed using an index.
 

@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 
 //! Jagged Array in Java
 // A jagged array is a 2D array where each row can have a different number of columns.

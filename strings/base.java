@@ -1,4 +1,4 @@
-package strings;
+package Strings;
 
 //! String
 //In Java, a String is an object that represents a sequence of characters.

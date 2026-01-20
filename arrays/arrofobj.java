@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 
 //! Array of object in java 
 // class 

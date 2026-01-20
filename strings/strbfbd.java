@@ -1,4 +1,4 @@
-package strings;
+package Strings;
 
 //! Overview
 // Java provides three main classes to handle strings:
