@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StatM",
+            "request": "launch",
+            "mainClass": "statickeyword.StatM",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "StatiV",
+            "request": "launch",
+            "mainClass": "statickeyword.StatiV",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "strbuild",
+            "request": "launch",
+            "mainClass": "strings.strbuild",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "base",
+            "request": "launch",
+            "mainClass": "strings.base",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "arrofobj",
             "request": "launch",
             "mainClass": "arrays.arrofobj",

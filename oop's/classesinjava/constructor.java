@@ -1,4 +1,3 @@
-package oops.classes;
 
 class Shop {
     String brand;

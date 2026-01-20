@@ -1,4 +1,3 @@
-package oops.objects;
 
 class Car {
     String company;
