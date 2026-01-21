@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hide",
+            "request": "launch",
+            "mainClass": "hide",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Encapslt",
+            "request": "launch",
+            "mainClass": "Oops.Encapsulation.Encapslt",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Capsule",
             "request": "launch",
             "mainClass": "Capsule",
