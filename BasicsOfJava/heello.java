@@ -1,5 +1,5 @@
-
-public class Hello {
+package BasicsOfJava;
+public class heello {
     public static void main(String[] args) {
         //! Printing hello world in console
         System.out.println("Hello java how are you!");

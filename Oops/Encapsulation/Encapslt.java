@@ -26,6 +26,7 @@ import java.util.Scanner;
 // Accessible only within the same class.
 // Often used for internal helper logic that should not be exposed to other classes.
 
+//! Encapsulation without validation
 class Human {
 
     private String color = "fair";
@@ -49,6 +50,7 @@ class Human {
 
 }
 
+//! Encapsulation with validation
 class School {
     private String name;
     private String city;
@@ -57,7 +59,7 @@ class School {
     public String getName() {
         return name;
     }
-
+//! name setters with validation (some condition)
     public boolean setName(String name) {
         if (name.equals("MIET") || name.equals("MIT")) {
             this.name = name;
@@ -70,6 +72,7 @@ class School {
         return city;
     }
 
+//! city setters with validation (some condition)
     public boolean setCity(String city) {
         if (city != null && city.length() > 5) {
             this.city = city;
@@ -89,16 +92,20 @@ class School {
 }
 
 public class Encapslt {
-
     public static void main(String[] args) {
+        //! scanmer object for input from the user
         Scanner sc = new Scanner(System.in);
+
+        //! Object Home
         Human h = new Human();
         // h.color = "Dark";
         // h.bones = 206;
         // h.setColor("Dark");
         // h.setBones(206);
+
+        //! Object School
         School s = new School(); // object
-        // user input
+        //! User input
         System.out.println("enter the name");
         String name = sc.nextLine();
         System.out.println("enter the city");
@@ -106,11 +113,12 @@ public class Encapslt {
         System.out.println("enter the pincode");
         int pincode = sc.nextInt();
 
-        // calling
+        //! Calling 
         boolean isNameValid = s.setName(name);
         boolean isCityValid = s.setCity(city);
         s.setPincode(pincode);
 
+        //! Condition for print values
         if (isNameValid && isCityValid) {
             System.out.println(s.getName() + " : " + s.getCity() + " ; " + s.getPincode());
         } else {
