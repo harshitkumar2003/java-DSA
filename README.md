@@ -14,7 +14,7 @@ Arrays, Strings, Linked Lists
 <!-- ! switch -->
 <!-- ! loops  -->
 <!-- ! array -->
-! string
+<!-- ! string -->
 ! functions
 ! recursion
 
@@ -26,7 +26,10 @@ Arrays, Strings, Linked Lists
 <!-- ! constructor -->
 <!-- ! Packages -->
 <!-- ! polymorphism -->
-! inheritance 
+<!-- ! inheritance  -->
+<!-- ! This & Super Keyword -->
+! Access Modifiers
+! Final keyword
 ! abstraction
 ! encapsulaion
 

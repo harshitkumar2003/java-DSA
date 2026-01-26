@@ -1,28 +1,30 @@
 //! In hierarchical inheritance, more than one subclass is inherited from a single base class
 
-class Car {
-    Car() {
-        System.out.println("This is a Car");
+class House {
+    public House() {
+        System.out.println("Parent constructor called");
+    }
+    public void display() {
+        System.out.println(" Welcome to our house");
     }
 }
 
-class Engine extends Car  {
-    Engine() {
-        System.out.println("This Engine in Car");
+class Bed extends House {
+    public Bed() {
+        System.out.println("Child 1 constructor called");
     }
 }
 
-class Tyres extends Car {
-    Tyres() {
-        System.out.println("This Tyre in Car");
+class Kitchen extends House {
+    public Kitchen() {
+        System.out.println("Child 2 constructor called");
     }
 }
-
 
 public class Hireinh {
     public static void main(String[] args) {
-        Engine eng = new Engine();
-        Tyres tyr = new Tyres();
-       
+        Kitchen kit = new Kitchen();
+        kit.display();
+     
     }
 }

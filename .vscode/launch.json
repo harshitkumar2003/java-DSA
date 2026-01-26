@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "thisnsup",
+            "request": "launch",
+            "mainClass": "Oops.thisnsup",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "thisnsup",
+            "request": "launch",
+            "mainClass": "thisnsup",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "sub",
+            "request": "launch",
+            "mainClass": "sub",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "sub",
+            "request": "launch",
+            "mainClass": "Oops.thandsukeyword.sub",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "sup",
+            "request": "launch",
+            "mainClass": "sup",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "thnsu",
+            "request": "launch",
+            "mainClass": "thnsu",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "tt",
+            "request": "launch",
+            "mainClass": "tt",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "thissup",
+            "request": "launch",
+            "mainClass": "thissup",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Hireinh",
             "request": "launch",
             "mainClass": "Hireinh",
