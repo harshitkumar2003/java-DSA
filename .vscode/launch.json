@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inputoutput",
+            "request": "launch",
+            "mainClass": "inputoutput",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "ifelsesttmt",
+            "request": "launch",
+            "mainClass": "controlsttmts.ifelsesttmt",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "assignmentoperator",
+            "request": "launch",
+            "mainClass": "assignmentoperator",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "arithmeticopr",
+            "request": "launch",
+            "mainClass": "arithmeticopr",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "RelationalOperators",
+            "request": "launch",
+            "mainClass": "RelationalOperators",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "operators.arithmetic",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Typecaasting",
+            "request": "launch",
+            "mainClass": "Typecaasting",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "NonPrimitiveDtype",
+            "request": "launch",
+            "mainClass": "NonPrimitiveDtype",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "primitiveD",
+            "request": "launch",
+            "mainClass": "primitiveD",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "WhatIsJava",
+            "request": "launch",
+            "mainClass": "WhatIsJava",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "upcs",
+            "request": "launch",
+            "mainClass": "Oops.casting.upcs",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "finkey",
+            "request": "launch",
+            "mainClass": "finkey",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "RtimePolymorphism",
+            "request": "launch",
+            "mainClass": "RtimePolymorphism",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "thisnsup",
             "request": "launch",
             "mainClass": "Oops.thisnsup",

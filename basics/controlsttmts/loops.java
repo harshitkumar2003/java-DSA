@@ -1,4 +1,6 @@
-public class demo {
+package controlsttmts;
+
+public class loops {
     public static void main(String[] args) {
         //! if you want to repeat something multiple times
 

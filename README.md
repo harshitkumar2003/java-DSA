@@ -28,8 +28,8 @@ Arrays, Strings, Linked Lists
 <!-- ! polymorphism -->
 <!-- ! inheritance  -->
 <!-- ! This & Super Keyword -->
-! Access Modifiers
-! Final keyword
+<!-- ! Access Modifiers -->
+<!-- ! Final keyword -->
 ! abstraction
 ! encapsulaion
 
@@ -335,3 +335,195 @@ System Design (Basics)
 SQL Queries
 
 Spring Boot Interview Questions
+
+
+
+
+java-programming/
+│
+├── 01-basics/
+│   ├── 01-introduction/
+│   │   ├── WhatIsJava.java
+│   │   ├── JavaFeatures.java
+│   │   ├── JDK_JRE_JVM.java
+│   │   └── JavaProgramStructure.java
+│   │
+│   ├── 02-data-types-variables/
+│   │   ├── PrimitiveDataTypes.java
+│   │   ├── NonPrimitiveDataTypes.java
+│   │   ├── VariablesTypes.java
+│   │   └── TypeCasting.java
+│   │
+│   ├── 03-operators/
+│   │   ├── ArithmeticOperators.java
+│   │   ├── RelationalOperators.java
+│   │   ├── LogicalOperators.java
+│   │   ├── AssignmentOperators.java
+│   │   └── UnaryOperators.java
+│   │
+│   ├── 04-control-statements/
+│   │   ├── IfElse.java
+│   │   ├── SwitchCase.java
+│   │   ├── ForLoop.java
+│   │   ├── WhileLoop.java
+│   │   ├── DoWhileLoop.java
+│   │   └── BreakContinue.java
+│   │
+│   ├── 05-arrays/
+│   │   ├── SingleDimensionalArray.java
+│   │   ├── MultiDimensionalArray.java
+│   │   ├── ArrayOperations.java
+│   │   └── ArrayVsArrayList.java
+│   │
+│   └── 06-input-output/
+│       ├── ScannerClass.java
+│       ├── BufferedReaderClass.java
+│       └── CommandLineArguments.java
+│
+├── 02-core-java/
+│   ├── 01-oops/
+│   │   ├── ClassAndObject.java
+│   │   ├── Encapsulation.java
+│   │   ├── Inheritance.java
+│   │   ├── Polymorphism.java
+│   │   ├── MethodOverloading.java
+│   │   ├── MethodOverriding.java
+│   │   ├── Abstraction.java
+│   │   ├── Interface.java
+│   │   ├── AbstractClass.java
+│   │   ├── Upcasting.java
+│   │   └── Downcasting.java
+│   │
+│   ├── 02-constructors-keywords/
+│   │   ├── DefaultConstructor.java
+│   │   ├── ParameterizedConstructor.java
+│   │   ├── ThisKeyword.java
+│   │   ├── SuperKeyword.java
+│   │   ├── StaticKeyword.java
+│   │   ├── FinalKeyword.java
+│   │   └── InstanceInitializerBlock.java
+│   │
+│   ├── 03-strings/
+│   │   ├── StringImmutable.java
+│   │   ├── StringMethods.java
+│   │   ├── StringBuffer.java
+│   │   ├── StringBuilder.java
+│   │   └── StringComparison.java
+│   │
+│   ├── 04-exception-handling/
+│   │   ├── TryCatch.java
+│   │   ├── MultipleCatch.java
+│   │   ├── FinallyBlock.java
+│   │   ├── ThrowThrows.java
+│   │   ├── CheckedUncheckedException.java
+│   │   └── CustomException.java
+│   │
+│   ├── 05-packages-access-modifiers/
+│   │   ├── PackagesDemo.java
+│   │   ├── PublicModifier.java
+│   │   ├── ProtectedModifier.java
+│   │   ├── DefaultModifier.java
+│   │   └── PrivateModifier.java
+│   │
+│   ├── 06-collections/
+│   │   ├── ListInterface/
+│   │   │   ├── ArrayListDemo.java
+│   │   │   ├── LinkedListDemo.java
+│   │   │   └── VectorDemo.java
+│   │   │
+│   │   ├── SetInterface/
+│   │   │   ├── HashSetDemo.java
+│   │   │   ├── LinkedHashSetDemo.java
+│   │   │   └── TreeSetDemo.java
+│   │   │
+│   │   ├── MapInterface/
+│   │   │   ├── HashMapDemo.java
+│   │   │   ├── LinkedHashMapDemo.java
+│   │   │   ├── TreeMapDemo.java
+│   │   │   └── HashtableDemo.java
+│   │   │
+│   │   ├── ComparableDemo.java
+│   │   ├── ComparatorDemo.java
+│   │   └── CollectionsUtilityClass.java
+│   │
+│   ├── 07-multithreading/
+│   │   ├── ThreadClass.java
+│   │   ├── RunnableInterface.java
+│   │   ├── ThreadLifecycle.java
+│   │   ├── Synchronization.java
+│   │   ├── Deadlock.java
+│   │   ├── VolatileKeyword.java
+│   │   └── ExecutorFramework.java
+│   │
+│   └── 08-file-handling/
+│       ├── FileClass.java
+│       ├── FileReaderWriter.java
+│       ├── BufferedIO.java
+│       ├── Serialization.java
+│       ├── Deserialization.java
+│       └── TransientKeyword.java
+│
+├── 03-advanced-java/
+│   ├── 01-jvm-internals/
+│   │   ├── JVMArchitecture.java
+│   │   ├── ClassLoader.java
+│   │   ├── MemoryManagement.java
+│   │   └── GarbageCollection.java
+│   │
+│   ├── 02-java-8-features/
+│   │   ├── LambdaExpressions.java
+│   │   ├── FunctionalInterface.java
+│   │   ├── StreamAPI.java
+│   │   ├── MethodReferences.java
+│   │   ├── OptionalClass.java
+│   │   └── DateTimeAPI.java
+│   │
+│   ├── 03-concurrency/
+│   │   ├── CallableFuture.java
+│   │   ├── ForkJoinFramework.java
+│   │   ├── LocksAndConditions.java
+│   │   └── AtomicVariables.java
+│   │
+│   ├── 04-jdbc/
+│   │   ├── JDBCArchitecture.java
+│   │   ├── DriverManager.java
+│   │   ├── StatementDemo.java
+│   │   ├── PreparedStatementDemo.java
+│   │   ├── CallableStatementDemo.java
+│   │   └── ConnectionPooling.java
+│   │
+│   └── 05-design-patterns/
+│       ├── SingletonPattern.java
+│       ├── FactoryPattern.java
+│       ├── BuilderPattern.java
+│       ├── AdapterPattern.java
+│       ├── ObserverPattern.java
+│       └── DAOPattern.java
+│
+├── 04-frameworks/
+│   ├── spring/
+│   │   ├── SpringCoreConcepts.md
+│   │   ├── DependencyInjection.java
+│   │   ├── BeanLifecycle.java
+│   │   └── SpringAnnotations.java
+│   │
+│   ├── spring-boot/
+│   │   ├── SpringBootIntro.md
+│   │   ├── RestController.java
+│   │   ├── CRUDApplication.java
+│   │   └── ExceptionHandling.java
+│   │
+│   ├── hibernate/
+│   │   ├── HibernateArchitecture.md
+│   │   ├── EntityMapping.java
+│   │   ├── HQLDemo.java
+│   │   └── CacheMechanism.java
+│   │
+│   └── microservices/
+│       ├── MicroservicesIntro.md
+│       ├── RestAPI.java
+│       ├── FeignClient.java
+│       └── ServiceCommunication.md
+│
+├── README.md
+└── .gitignore
