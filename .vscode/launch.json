@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "wrapcls",
+            "request": "launch",
+            "mainClass": "wrapperclasses.wrapcls",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "IIB",
             "request": "launch",
             "mainClass": "IIB",
