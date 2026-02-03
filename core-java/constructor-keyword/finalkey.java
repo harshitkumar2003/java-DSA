@@ -1,4 +1,3 @@
-package Oops;
 //! In Java, the final keyword is a non-access modifier used to impose restrictions on variables, methods, and classes.
 // It ensures that once something is declared final, it cannot be changed or overridden.
 /* 
@@ -37,7 +36,7 @@ final class Math {
     }
 }*/
 
-public class fkey {
+public class finalkey {
     public static void main(String[] args) {
         Math obj = new Math();
         obj.display(4);

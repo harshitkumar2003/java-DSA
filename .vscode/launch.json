@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IIB",
+            "request": "launch",
+            "mainClass": "IIB",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "thisandsup",
+            "request": "launch",
+            "mainClass": "thisandsup",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "inputoutput",
             "request": "launch",
             "mainClass": "inputoutput",

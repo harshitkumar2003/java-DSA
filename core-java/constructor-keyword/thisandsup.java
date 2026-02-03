@@ -1,32 +1,30 @@
-package Oops;
-
 //! In java, super keyword is used to access methods of the parent class while this is used to access methods of the current class.
 
 //! Note: We can use 'this' as well as 'super' any number of times but main thing is that we cannot use them inside static context. 
 
-class Apple {
-    public Apple() {
+class ACons {
+    public ACons() {
         System.out.println("Constructor A called ");
     }
-    public Apple(int n) 
+    public ACons(int n)
     {
         this();
         System.out.println("Constructor A in Parameter ");
     }
 }
- class Ball extends Apple {
-    public Ball() {
+ class BCons extends ACons {
+    public BCons() {
         super();
         System.out.println("Constructor B called ");
     }
-    public Ball(int n) {
-        super(2);
+    public BCons(int n) {
+        super();
         System.out.println("Constructor B in Parameter ");
     }
  }
 
-public class thisnsup {
+public class thisandsup {
     public static void main(String[] args) {
-     Ball b = new Ball(2);
+     BCons b = new BCons(2);
     }
 }
