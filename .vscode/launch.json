@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Anonymousclasse",
+            "request": "launch",
+            "mainClass": "innerclass.Anonymousclasse",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Localinnerclasse",
+            "request": "launch",
+            "mainClass": "innerclass.Localinnerclasse",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Staticnestedclasse",
             "request": "launch",
             "mainClass": "innerclass.Staticnestedclasse",
