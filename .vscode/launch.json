@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ensdty",
+            "request": "launch",
+            "mainClass": "ensdty",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "sdaty",
+            "request": "launch",
+            "mainClass": "sdaty",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "ensdaty",
+            "request": "launch",
+            "mainClass": "ensdaty",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "enu",
+            "request": "launch",
+            "mainClass": "enu",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "enumdtype",
+            "request": "launch",
+            "mainClass": "enumdtype",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "interfacedemo",
             "request": "launch",
             "mainClass": "interfacedemo",
