@@ -21,6 +21,8 @@ boolean	              --->      Boolean
 *Autoboxing/Unboxing – Automatic conversion between primitives and wrapper objects. 
 */
 
+import java.util.ArrayList;
+
 public class wrapcls {
     public static void main(String[] args) {
         // Autoboxing: primitive to object
@@ -32,5 +34,20 @@ public class wrapcls {
         Integer n = 100;
         int n1 = n;
         System.out.println("Automatically unwraps Integer to int " + n1);
+
+        // Using utility methods
+        String str = "123";
+        int parsed = Integer.parseInt(str); // Convert String to int
+        System.out.println("Parsed value: " + parsed*3);
+
+        // Using wrapper in collections
+        ArrayList<Integer> numbers = new ArrayList<>();
+        numbers.add(5);   // Autoboxingf 
+        numbers.add(15);
+        numbers.add(25);
+
+        for (int no : numbers) {
+            System.out.print(no + " ");
+        }
     }
 }

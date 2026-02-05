@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Staticnestedclasse",
+            "request": "launch",
+            "mainClass": "innerclass.Staticnestedclasse",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "MemberInnerclasse",
+            "request": "launch",
+            "mainClass": "innerclass.MemberInnerclasse",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "abs",
+            "request": "launch",
+            "mainClass": "Oops.abstraction.abs",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "wrapcls",
             "request": "launch",
             "mainClass": "wrapperclasses.wrapcls",

@@ -37,15 +37,16 @@ Practice
 <!-- ! Encapsulation -->
 <!-- ! Inheritance -->
 <!-- ! Polymorphism -->
-Abstraction
-Interfaces vs Abstract Classes
+<!-- ! Abstraction -->
+! Interfaces vs Abstract Classes
 <!-- ! Wrapper Classes -->
+<!-- ! Inner Classes -->
 
 
 ! Core Java Concepts
 <!-- ! Constructors -->
 <!-- ! this & super -->
-<!-- ! static keywor -->
+<!-- ! static keyword -->
 <!-- ! Final keyword -->
 <!-- ! Packages & Access Modifiers -->
 ! Exception Handling
