@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "interfacedemo",
+            "request": "launch",
+            "mainClass": "interfacedemo",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "AbsAnonyclasse",
+            "request": "launch",
+            "mainClass": "innerclass.AbsAnonyclasse",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Anonymousclasse",
             "request": "launch",
             "mainClass": "innerclass.Anonymousclasse",
