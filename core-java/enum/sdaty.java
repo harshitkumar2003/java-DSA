@@ -28,7 +28,7 @@ enum Laptop {
 
     private int price;
 
-    //! In some case we don't know the price of laptop like VivoBook = then we take non-parameterized constructor
+    //! In some case we don't know the price of laptop like VivoBook = then we take non-parameterized constructor and can specify the price as per choice.
     private Laptop() {
         price = 500;
     }

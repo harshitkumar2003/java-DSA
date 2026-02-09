@@ -41,6 +41,7 @@ Practice
 <!-- ! Interfaces vs Abstract Classes -->
 <!-- ! Wrapper Classes -->
 <!-- ! Inner Classes -->
+<!-- ! Enum Special Datatype -->
 
 
 ! Core Java Concepts
@@ -66,10 +67,9 @@ Practice
 ! Creating threads
 ! Synchronization
 ! Executor Framework (basic)
-
 ! Java 8 Features (Must Have)
-! Lambda Expressions
-! Functional Interfaces
+<!-- ! Lambda Expressions -->
+<!-- ! Functional Interfaces -->
 ! Stream API
 
 Optional
@@ -218,7 +218,7 @@ java-programming/
 │       └── CommandLineArguments.java
 │
 ├── 02-core-java/
-│   ├── 01-oops/ 🏷️
+│   ├── 01-oops/ 🍾
 │   │   ├── Class
 |   |   |── Object
 │   │   ├── Encapsulation
@@ -227,8 +227,8 @@ java-programming/
 │   │   |     |── MethodOverloading.java
 │   │   |     └── MethodOverriding.java
 │   │   ├── Abstraction
-│   │   ├── Interface
 │   │   ├── AbstractClass
+│   │   ├── Interface
 |   |   └── casting
 │   │        ├── Upcasting.java
 │   │        └── Downcasting.java
@@ -250,7 +250,7 @@ java-programming/
 │   │   ├── StringBuilder.java
 │   │   └── StringComparison.java
 │   │
-│   ├── 04-exception-handling/
+│   ├── 04-exception-handling/ 🏷️
 │   │   ├── TryCatch.java
 │   │   ├── MultipleCatch.java
 │   │   ├── FinallyBlock.java

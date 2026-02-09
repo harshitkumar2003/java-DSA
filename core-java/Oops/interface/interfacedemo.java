@@ -11,6 +11,27 @@
 !class --> extends --> class
 !class --> implements --> interface
 !interface --> extends --> interface
+
+!Types of Interfaces
+1. Normal Interface - (Pure Abstract Interface)
+Contains only abstract methods (before Java 8).
+From Java 8 onwards, can also have default and static methods.
+Used for defining a standard contract for multiple classes.
+
+2. Functional Interface - (Single Abstract Method Interface)
+Contains exactly one abstract method.
+Can have multiple default or static methods.
+Used mainly with lambda expressions (Java 8+).
+Annotated with @FunctionalInterface (optional but recommended).
+
+3. Marker Ineterface - without method
+No methods or fields.
+Used to mark a class with a specific property or behavior.
+Example: Serializable, Cloneable, Remote
+
+4. SAM Interface (Special case of Functional Interface)
+Single Abstract Method interface, but often used for event handling or callbacks.
+Example: Runnable, Callable.
 */
  
 interface Outer {

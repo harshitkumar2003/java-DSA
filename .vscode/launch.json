@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lambdafn",
+            "request": "launch",
+            "mainClass": "Lambdafn",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "functionalinterface",
+            "request": "launch",
+            "mainClass": "functionalinterface",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "ensdty",
             "request": "launch",
             "mainClass": "ensdty",
