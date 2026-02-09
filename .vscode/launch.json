@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exc",
+            "request": "launch",
+            "mainClass": "Exceptionhandling.Exc",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Lambdafn",
             "request": "launch",
             "mainClass": "Lambdafn",
