@@ -50,10 +50,10 @@ Practice
 <!-- ! static keyword -->
 <!-- ! Final keyword -->
 <!-- ! Packages & Access Modifiers -->
-! Exception Handling
-! try-catch-finally
-! Checked vs Unchecked Exceptions
-! Custom Exceptions
+<!-- ! Exception Handling -->
+<!-- ! try-catch-finally -->
+<!-- ! Checked vs Unchecked Exceptions -->
+<!-- ! Custom Exceptions -->
 <!-- ! Strings -->
 <!-- ! String, StringBuilder, StringBuffer -->
 <!-- ! String methods -->

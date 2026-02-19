@@ -1,4 +1,4 @@
-package Exceptionhandling;
+package xceptionhandling;
 /*
 What are Exceptions
 ! In Java, exception handling is a mechanism to handle runtime errors, allowing the normal flow of a program to continue. Exceptions are events that occur during program execution that disrupt the normal flow of instructions.
@@ -45,20 +45,22 @@ Unchecked Exceptions (Runtime Exceptions)
 
 Custom Exceptions
  */
-public class Exc {
+public class demo{
 
     public static void main(String[] args) {
 
-        int[] arr = {2,1,22,34};
+        int[] arr = {2, 1, 22, 34};
 
         try {
             System.out.println(arr[4]);
-            
+            //! Instead of exception we can write exception name
         } catch (Exception e) {
             System.out.println("Array size kam kar 0 se suru hota hai..." + e);
+        } finally {
+            System.out.println("Exception Handle hogya");
         }
         System.out.println(arr[1]);
- 
+
     }
 
 }
