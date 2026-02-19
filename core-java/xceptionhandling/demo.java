@@ -54,7 +54,7 @@ public class demo{
         try {
             System.out.println(arr[4]);
             //! Instead of exception we can write exception name
-        } catch (Exception e) {
+        } catch (Exception e) { //catch (Arrayindexoutofbound e)
             System.out.println("Array size kam kar 0 se suru hota hai..." + e);
         } finally {
             System.out.println("Exception Handle hogya");

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Twmulticatch",
+            "request": "launch",
+            "mainClass": "xceptionhandling.Twmulticatch",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "thrownthrows",
+            "request": "launch",
+            "mainClass": "xceptionhandling.thrownthrows",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Exc",
             "request": "launch",
             "mainClass": "Exceptionhandling.Exc",

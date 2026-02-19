@@ -2,16 +2,19 @@ package xceptionhandling;
 
 public class Twmulticatch {
     public static void main(String[] args) {
+        int i = 2;
+        int j = 0;
+        String str = null;
+        int[] arr = {1, 2, 3};
+
         try {
             // Example 1: ArithmeticException
-            int result = 10 / 0; // Division by zero
+            j = 18/i; // Division by zero
 
             // Example 2: ArrayIndexOutOfBoundsException
-            int[] arr = {1, 2, 3};
             System.out.println(arr[5]); // Invalid index
 
             // Example 3: NullPointerException
-            String str = null;
             System.out.println(str.length());
 
         } 
@@ -29,6 +32,7 @@ public class Twmulticatch {
             // General exception handler
             System.out.println("General error: " + e.getMessage());
         }
+        System.out.println(j);
 
         System.out.println("Program continues after handling exceptions.");
     }
