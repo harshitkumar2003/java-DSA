@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "buffread",
+            "request": "launch",
+            "mainClass": "bufferedreader.buffread",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "throwskey",
+            "request": "launch",
+            "mainClass": "xceptionhandling.throwskey",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "customex",
+            "request": "launch",
+            "mainClass": "xceptionhandling.customex",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "custom",
+            "request": "launch",
+            "mainClass": "custom",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
+            "name": "custom",
+            "request": "launch",
+            "mainClass": "xceptionhandling.custom",
+            "projectName": "Java Programming_aee3b9ac"
+        },
+        {
+            "type": "java",
             "name": "Twmulticatch",
             "request": "launch",
             "mainClass": "xceptionhandling.Twmulticatch",

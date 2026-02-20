@@ -250,7 +250,7 @@ java-programming/
 │   │   ├── StringBuilder.java
 │   │   └── StringComparison.java
 │   │
-│   ├── 04-exception-handling/ 🏷️
+│   ├── 04-exception-handling/ 🍾
 │   │   ├── TryCatch.java
 │   │   ├── MultipleCatch.java
 │   │   ├── FinallyBlock.java
@@ -265,7 +265,7 @@ java-programming/
 │   │   ├── DefaultModifier.java
 │   │   └── PrivateModifier.java
 │   │
-│   ├── 06-collections/
+│   ├── 06-collections/ 🏷️
 │   │   ├── ListInterface/
 │   │   │   ├── ArrayListDemo.java
 │   │   │   ├── LinkedListDemo.java
@@ -286,7 +286,7 @@ java-programming/
 │   │   ├── ComparatorDemo.java
 │   │   └── CollectionsUtilityClass.java
 │   │
-│   ├── 07-multithreading/
+│   ├── 07-multithreading/ 🏷️
 │   │   ├── ThreadClass.java
 │   │   ├── RunnableInterface.java
 │   │   ├── ThreadLifecycle.java
@@ -295,7 +295,7 @@ java-programming/
 │   │   ├── VolatileKeyword.java
 │   │   └── ExecutorFramework.java
 │   │
-│   └── 08-file-handling/
+│   └── 08-file-handling/ 🏷️
 │       ├── FileClass.java
 │       ├── FileReaderWriter.java
 │       ├── BufferedIO.java
